@@ -10,7 +10,7 @@
 ### <b>Hi,</b>
 
 I drink too much tea and I like to play with data.
-I have experience with clinical research related bioinformatics, including software backend development.
+I have experience with clinical research related bioinformatics, including software backend development and creating databases.
 I hold a BSc in Animal Science.
 
 ![Estonian](https://img.shields.io/badge/Estonian-Native-FFC0CB?style=for-the-badge)  ![English](https://img.shields.io/badge/English-Fluent-FFE6EB?style=for-the-badge)  ![French](https://img.shields.io/badge/French-Intermediate-FFD6E8?style=for-the-badge)  ![Korean](https://img.shields.io/badge/Korean-Basic-FFF0F5?style=for-the-badge)
