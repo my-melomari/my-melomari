@@ -1,5 +1,5 @@
 # About me
-![Python](https://img.shields.io/badge/Python-FFC0CB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-FFC0CB?logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-FFC0CB?logo=tableau&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-FFC0CB?logo=html5&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-FFC0CB?logo=gnubash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-FFC0CB?logo=javascript&logoColor=white) ![R](https://img.shields.io/badge/R-FFC0CB?logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFC0CB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-FFC0CB?logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-FFC0CB?logo=tableau&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-FFC0CB?logo=html5&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-FFC0CB?logo=gnubash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-FFC0CB?logo=javascript&logoColor=white) ![R](https://img.shields.io/badge/R-FFC0CB?logo=r&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-FFC0CB?logo=snowflake&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-FFC0CB?logo=power-bi&logoColor=white)
 
 ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉
 
