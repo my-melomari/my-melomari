@@ -6,7 +6,8 @@
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-FFC0CB?logo=looker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FFC0CB?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FFC0CB?logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-FFC0CB?logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-FFC0CB?logo=windows&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-FFC0CB?logo=apacheairflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FFC0CB?logo=tensorflow&logoColor=white)
 
 ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉
 
