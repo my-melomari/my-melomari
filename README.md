@@ -53,3 +53,6 @@ pie title
 > | Fitness | 25% | Gym and pilates |
 > | Photography | 5% | I like object-oriented :) photos |
 > | Gaming | 65% | PoE2, Hello Kitty Island Adventure, OSRS |
+>
+> 
+> <img src="https://cdn.jsdelivr.net/gh/my-melomari/my-melomari@main/gloomshroommg.png" width="80" alt="Gloomshroom" />
